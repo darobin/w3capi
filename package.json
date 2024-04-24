@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "async": "3.2.5",
-    "superagent": "8.1.2"
+    "superagent": "9.0.1"
   },
   "devDependencies": {
     "browserify": "17.0.0",
